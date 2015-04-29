@@ -8,4 +8,5 @@ foreach ($personne as $libelle => $detail)
     echo '<p>' . $libelle . ' vaut ' . $detail . '</p>';
 }
 
+
 ?>
